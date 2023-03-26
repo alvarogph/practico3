@@ -1,0 +1,24 @@
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Programación 2\Semana 3\Practico\Practico 3 v2\Dominio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
