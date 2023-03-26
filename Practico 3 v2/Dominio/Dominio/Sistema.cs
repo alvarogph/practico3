@@ -51,7 +51,7 @@ namespace Dominio
             AgregarAuto(unAuto1);
             Auto unAuto2 = new Auto("Fiat", _modelo[1], 2005, false, 234567, fecha2);
             AgregarAuto(unAuto2);
-            Auto unAuto3 = new Auto("Fiat", _modelo[2], 2005, true, 134567, fecha3);
+            Auto unAuto3 = new Auto("Fiat", _modelo[2], 2005, true, 234567, fecha3);
             AgregarAuto(unAuto3);
         }
 
